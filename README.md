@@ -29,7 +29,6 @@ These various sidecar setups are configured by changes in the task definitions f
 1. Your region
     ```
     export AWS_DEFAULT_REGION=us-west-2
-    
     ```
 1. The latest envoy image, see https://docs.aws.amazon.com/app-mesh/latest/userguide/envoy.html
    ```
